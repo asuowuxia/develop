@@ -1,0 +1,5 @@
+﻿  Qthread.cpp
+D:\workspace\Qthread\Qthread.cpp(43,5): error C3861: “cout”: 找不到标识符
+D:\workspace\Qthread\Qthread.cpp(43,22): error C3861: “endl”: 找不到标识符
+D:\workspace\Qthread\Qthread.cpp(54,5): error C3861: “cout”: 找不到标识符
+D:\workspace\Qthread\Qthread.cpp(54,32): error C3861: “endl”: 找不到标识符

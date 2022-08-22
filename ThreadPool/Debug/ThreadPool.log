@@ -1,0 +1,11 @@
+﻿  ThreadPool.cpp
+D:\workspace\ThreadPool\ThreadPool.cpp(72,42): error C2065: “queque”: 未声明的标识符
+D:\workspace\ThreadPool\ThreadPool.cpp(107): message : 查看对正在编译的 类 模板 实例化“thread_safe_queue<T>”的引用
+D:\workspace\ThreadPool\ThreadPool.cpp(72,42): error C3861: “queque”: 找不到标识符
+D:\workspace\ThreadPool\ThreadPool.cpp(85,9): error C3861: “value”: 找不到标识符
+D:\workspace\ThreadPool\ThreadPool.cpp(177,9): error C3861: “work_queue”: 找不到标识符
+D:\workspace\ThreadPool\ThreadPool.cpp(175,10): message : 此诊断出现在编译器生成的函数“void thread_pool::submit(FunctionType)”中
+D:\workspace\ThreadPool\ThreadPool.cpp(191,1): error C2590: “empl_type”: 只有构造函数可以有基/成员初始值列表
+D:\workspace\ThreadPool\ThreadPool.cpp(193): message : 查看对正在编译的 类 模板 实例化“function_wrapper::impl_type<F>”的引用
+D:\workspace\ThreadPool\ThreadPool.cpp(215,1): error C2011: “thread_pool”:“class”类型重定义
+D:\workspace\ThreadPool\ThreadPool.cpp(123): message : 参见“thread_pool”的声明
